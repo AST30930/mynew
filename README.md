@@ -1,2 +1,2 @@
 # mynew
- practice
+ example
